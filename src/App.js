@@ -1,3 +1,6 @@
+// Name : Drasti Parikh
+// Student Id : 101419828
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +10,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <h1>Welcome to Fullstack Development - I</h1>
+          <h2>React JS Programming Week09 Lab Exercise</h2>
+          <h3>Student Id : 101419828</h3>
+          <h4>Name : Drasti Parikh</h4>
+          <h5>George Brown College, Toronto</h5>
         </p>
         <a
           className="App-link"
